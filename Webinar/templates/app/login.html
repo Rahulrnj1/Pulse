@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en" class="h-100">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Patient Assist</title>
+
+    <!-- Styles -->
+    <!-- Favicon icon -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap"
+        rel="stylesheet">
+
+    <link href="https://demoglobal.me/public/css/style.css" rel="stylesheet">
+    <link href="https://demoglobal.me/public/css/custom.css" rel="stylesheet">
+    <link href="/static/assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
+    <link href="/static/assets/css/style.css" rel="stylesheet">
+    <!-- Required vendors -->
+    <script src="https://demoglobal.me/public/vendor/global/global.min.js"></script>
+    <script src="https://demoglobal.me/public/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+    <script src="https://demoglobal.me/public/js/custom.min.js"></script>
+    <script src="https://demoglobal.me/public/js/deznav-init.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/additional-methods.js"></script>
+
+
+</head>
+
+<body class="h-100 cadila" style="background-image: url('images/back.jpeg');">
+    <div class="authincation h-100">
+        <div class="container h-100">
+            <div class="row justify-content-center h-100 align-items-center">
+                <div class="col-md-6">
+                    <div class="authincation-content" style="background:#ffffff;">
+                        <div class="row no-gutters">
+                            <div class="col-xl-12">
+                                <div class="auth-form">
+                                    <div class="text-center mb-3">
+                                        <a href="/login"><img src="/static/assets/images/cipla_Logo.png" width="200px"
+                                                height="auto" alt=""></a>
+                                    </div>
+                                    <h4 class="text-center mb-4 text-white" style="color:#832852 !important;">User Login
+                                    </h4>
+
+
+                                    <form action="{% url 'loginpage'%}" method="post">
+                                        {% csrf_token %}
+                                        <div class="form-group">
+                                            <!-- <label class="mb-1 text-white"><strong style="color:#832852;">Email</strong></label> -->
+                                            <input style="color:#832852;" name="email" type="text"
+                                                style="color:#832852 !important;" class="form-control"
+                                                placeholder="Enter Your Email" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <!-- <label class="mb-1 text-white"><strong style="color:#832852;">Email</strong></label> -->
+                                            <input style="color:#832852;" name="password" type="password"
+                                                style="color:#832852 !important;" class="form-control"
+                                                placeholder="Enter Your Password" required>
+                                        </div>
+
+                                        <div class="text-center">
+                                            <button style="background-color:#832852 !important;color:#fff !important;"
+                                                type="submit" class="btn bg-white text-primary btn-block">Log
+                                                In</button>
+                                        </div>
+                                    </form>
+                                    <h4 class="text-center mb-4 text-white"
+                                        style="color:grey !important;margin-top:20px;">Don't have an account? <a
+                                            href="/register" style="color:#832852 !important;">Register Now</a></h4>
+                                    <script type="text/javascript">
+
+                                        window.history.replaceState(null, null, window.location.href);
+
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/static/assets/vendor/global/global.min.js"></script>
+    <script src="/static/assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+    <script src="/static/assets/js/custom.min.js"></script>
+    <script src="/static/assets/js/deznav-init.js"></script>
+</body>
+
+</html>

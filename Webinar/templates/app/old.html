@@ -1,0 +1,16 @@
+<table>
+    <tr>
+        <th>webinar_title</th>
+        <th>webinar_date</th>
+        <th>webniar_image</th>
+        <th>webinar_link</th>
+    </tr>
+    {% for item in mymembers %}
+    <tr>
+        <td>{{ item.webinar_title }}</td>
+        <td>{{ item.webinar_date }}</td>
+        <td>{{ item.webniar_image}}</td> 
+        <td>{{ item.webinar_link}}</td>
+    </tr>
+    {% endfor %}
+</table>

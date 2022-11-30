@@ -1,0 +1,385 @@
+"Employee Name","Employee Phone","Employee Email","Employee Designation","Employee HQ","Dorctor Name","Created At","Dorctor Hospital",Status
+"Shubham Tiwari",9511938484,shubham@gmail.com,Manager,Mumbai,"Ajay Sing","2022-05-25 08:50:09","Ajay Hospital",Unapproved
+"Venkateswarlu Madireddy",,,BM,Mysore,"SWAROOP S","2022-05-26 15:23:50","SPARSH HOSPITAL",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"NIRANJAN J","2022-05-26 15:33:12","TANYA SPECIALITY HOSPITAL",Approved
+"Clijo Lonan P C",,,BM,Cochin,"George p abraham","2022-05-27 06:30:44","Dr. George p abraham's clinic",Approved
+"K Mohan",,,BM,Bangalore,"DEVARAJ URS","2022-05-27 06:40:19","PEOPLE TREE HOSPITALS",Approved
+"SIVAKUMAR P",,,BM,Chennai,"Dr. MOHAN KUMAR V","2022-05-27 07:54:45","APOLLO HOSPITALS",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Pranit kakde","2022-05-27 08:47:52","Radiant Hospital",Approved
+"Imtiyaz Haque",,,BM,Purnea,"A K Gupta","2022-05-28 06:24:31","Maa Pancha Devi Hospital",Unapproved
+"Imtiyaz Haque",,,BM,Purnea,"A K Gupta","2022-05-28 06:43:36","Maa Pancha Devi Hospital",Approved
+"K Mohan",,,BM,Bangalore,"SHEETAL KAMAT","2022-05-28 06:50:38","DEEPESH CLINIC",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Sumeet agrawal","2022-05-28 06:53:22","Lotus hospital",Approved
+"SIVAKUMAR P",,,BM,Chennai,"MOHAN KUMAR V","2022-05-28 07:37:56","APOLLO HOSPITALS",Approved
+"RAJEEV KUMAR",,,BM,Noida,"Dr.Atul Garg","2022-05-28 07:41:03","Kailash hospital",Unapproved
+"RAJEEV KUMAR",,,BM,Noida,"Atul Garg","2022-05-28 07:41:06","Swasthya clinic",Unapproved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"Dr SIDDHARTH GUPTA","2022-05-28 07:55:02","JYOTI HOSPITAL",Unapproved
+"RAJEEV KUMAR",,,BM,Noida,"Mayank Gupta","2022-05-28 08:57:18","Kidney care & stone urology clinjc",Unapproved
+"Jaspreet Singh",,,BM,Kanpur,"MOHD NADEEM","2022-05-28 14:21:44","Dr Nadeem's Urology and Dental Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"MOHD SUHEL","2022-05-28 14:24:59","Dr Mohd Suhel Clinic",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"PRASHANT NIGAM","2022-05-29 13:07:03","THE PRIDE HOSPITAL",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"A S KOTHIWAL","2022-05-29 13:08:44","CHIRANJEEV HOSPITAL",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"AJAI BHARTI","2022-05-29 13:13:11","JEEVAN JYOTI HOSPITAL",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"MANISH TANDON","2022-05-29 13:15:58","KAILASH HOSPITAL",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"ASHISH SAXENA","2022-05-29 13:23:20","MAHENDRA GAYATRI HOSPITAL",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Naresh badlani","2022-05-30 04:39:42","Dayashanti hospital",Approved
+"Susanta Sen",,,BM,Burdwan,"Sandip Pramanik","2022-05-30 05:04:07","Matri Scan, Burdwan",Approved
+"Imtiyaz Haque",,,BM,Purnea,"Md. Anwar Hussain","2022-05-30 06:47:40","Z. A. Nursing Home",Approved
+"Imtiyaz Haque",,,BM,Purnea,"Prof. Dr. M. M. Haider","2022-05-30 10:44:58","Haider Nursing Home & Laparoscopic center",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"Mahendra Jain","2022-05-30 11:38:44","Maiya Multi Speciality Hospital",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"RAJ SHEKHAR GUPTA","2022-05-31 04:16:23","CREST HOSPITAL",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"ADARSH KUMAR","2022-05-31 04:38:47","IULS HOSPITAL",Approved
+"Shubham Patil",,,BM,Belgaum,"Amit katti","2022-05-31 07:59:30","Katti centre of Urology",Unapproved
+"Shubham Patil",,,BM,Belgaum,"Amit katti","2022-05-31 08:19:36","Katti centre of Urology",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"UMESH K","2022-05-31 08:24:59","CAUVERY MULTI-SPECIALITY HOSPITAL",Approved
+"Jaspreet Singh",,,BM,Kanpur,"SHUBHENDU BHADURI","2022-05-31 08:48:42","Urology clinic",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"Ashish ghanghoria","2022-05-31 10:52:26","Super specialty hospital rewa",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"pushpendra shukla","2022-05-31 10:53:40","Rewa hospital and research center",Approved
+"RAJEEV KUMAR",,,BM,Noida,"Venkatesh Kumar","2022-05-31 11:37:24","Truecare clinic",Unapproved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"ANUJ VARSHNEY","2022-06-01 04:08:41","M.S., M.Ch., UROLOGY",Approved
+"ANURAG .",,,BM,Delhi,V.K.GOEL,"2022-06-01 04:50:50","Dr V K GOEL CLINIC",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"Althaf khan","2022-06-01 04:54:19","Mangalore Urology Centre",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"ASHOK PANDITH","2022-06-01 05:02:04","Yenepoya Specialty Hospital",Approved
+"K Mohan",,,BM,Bangalore,"Eswar Prasad.S","2022-06-01 06:55:38","Curad My Centre For Diabetes",Approved
+"Vikas Vishwakarma",,,BM,Mumbai,"Dr Ganesh Bhagwat","2022-06-01 07:23:39","Dr Bhagwat Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"MAYANK PORWAL","2022-06-01 08:04:29","Vedansh Surgical Care",Approved
+"Vikas Vishwakarma",,,BM,Mumbai,"Dr Gaurang Shah","2022-06-01 08:17:28","Saifee Hospital",Approved
+"P Sivaprasad Babu",,,RBM,Bangalore,"Pramod BR","2022-06-01 10:26:11","Prime Health care center",Approved
+"Vikas Vishwakarma",,,BM,Mumbai,"Dr J G Lalmalani","2022-06-01 11:10:25","AUS Clinic & Lithotripsy Centre",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Dr. Prashant Lavania","2022-06-01 13:27:47","Pareek Hospital",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"Dr Pramod B R","2022-06-01 13:42:55","Prime Health Care Centre",Approved
+"Vikas Vishwakarma",,,BM,Mumbai,"Jitendra Sakhrani","2022-06-01 14:35:56","Superspeciality Polyclinic, Worli",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"H K Nagaraju","2022-06-01 16:15:33","Bangalore Kidney Hospital",Approved
+"RAJEEV KUMAR",,,BM,Noida,"H. Patra","2022-06-01 16:32:28","Prayag hospital",Unapproved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"Laxman G G Prabhu","2022-06-02 02:04:57","KMC HOSPITAL MANGALORE",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"KISHAN RAJ K","2022-06-02 02:24:27","SWATHI UROLOGY CLINIC",Approved
+"ANURAG .",,,BM,Delhi,R.R.MOHANTY,"2022-06-02 07:38:33","Mohanty Surgical centre & Nursing Home",Approved
+"RATNESH VIRENDRA SHUKLA",,,BM,Mumbai,"Nitin Kakka","2022-06-02 07:53:34","Paras Nursing Home",Approved
+"SHYAM SAHU",,,BM,Bilaspur,"Deepak Meghani","2022-06-02 08:18:38","Meghani nursing home",Approved
+"Jaydip Harsukhlal Jalu",,,BM,Ahmedabad,"Nirzar Makadia","2022-06-02 09:22:14","Sanket Surgical Hospital",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"NARENDRA J B","2022-06-02 09:44:18","NARENDRA UROLOGY CLINIC",Approved
+"K Mohan",,,BM,Bangalore,"HK Nagaraj","2022-06-02 09:46:27","Sapthagiri Super Speciality Hospital",Approved
+"K Mohan",,,BM,Bangalore,"Anoop M Gowda","2022-06-02 11:04:35","Prakriya Hospitals",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Anand sharma","2022-06-02 11:37:54","Nephron kidney care unit",Approved
+"Imtiyaz Haque",,,BM,Purnea,"Shailesh Kr. Singh","2022-06-02 12:06:02","SHIVANGI STONE HOSPITAL & MATERNITY CENTRE",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Amol mahaldar","2022-06-02 12:38:19","Manipal hospital panjim",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Gautam kamat","2022-06-03 06:20:16","Kamat nursing home Margao",Unapproved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Gautam kamat","2022-06-03 06:36:56","Kamat nursing home Margao",Approved
+"Vikas Vishwakarma",,,BM,Mumbai,"Dr Shirish Bhagwat","2022-06-03 06:37:17","The Surgery Clinic",Approved
+"Abhijit Kulkarni",,,BM,Hubli,"Shreekant N Meharwade","2022-06-03 08:09:29","Meharwade Clinic",Approved
+"Abhijit Kulkarni",,,BM,Hubli,"Bhuvanesh N","2022-06-03 08:42:07","Suchirayu Hospital",Approved
+"Ravish Kumar",,,BM,Ludhiana,"Puneet P.S. Grover","2022-06-03 08:42:27","New Ruby Hospital Jalandhar",Approved
+"Shubham Patil",,,BM,Belgaum,"ABHIJIT MUSALE","2022-06-03 09:19:40","SRI SATYA SAI HOSPITAL",Approved
+"Jaspreet Singh",,,BM,Kanpur,"R P S BHADAURIYA","2022-06-03 09:36:45","Lotus Super Specialty Hospital",Approved
+"K Mohan",,,BM,Bangalore,"Vinay Patil","2022-06-03 11:16:34","Aster CMI Hospital",Approved
+"Imtiyaz Haque",,,BM,Purnea,"Sujeet Kumar Mishra","2022-06-03 12:05:19","FAMILY HEALTH CLINIC",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,Rakesh,"2022-06-03 12:19:18","Aadhya kidney & Dialysis center",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,Srinivas,"2022-06-03 12:28:23","Hyderabad kidney & Laproscopic center",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Paul Naveen","2022-06-03 12:32:40","Hyderabad kidney & Laproscopic center",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Amit Tripathi","2022-06-03 13:36:50","Prime urology clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Vipul Tandon","2022-06-03 14:01:21","Jagmohini urology clinic",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Ravi kumar","2022-06-03 15:32:04","Novacare clinic",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Jayaram Reddy","2022-06-03 15:35:40","Hyderabad kidney & Laproscopic center",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Jayaram Reddy","2022-06-03 15:38:15","Hyderabad kidney & Laproscopic center",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Shabi Ahmad","2022-06-03 15:41:44","Shabra Clinic",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"N srinivas","2022-06-04 06:14:07","A I N U Hospital",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"N srinivas","2022-06-04 06:14:14","A I N U Hospital",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Sarika pandya","2022-06-04 06:18:33","A I N U Hospital",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Sarika pandya","2022-06-04 06:21:02","A I N U Hospital",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Sarika pandya","2022-06-04 06:24:12","A I N U Hospital",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Subhash chandrabose","2022-06-04 06:28:38","A I N U Hospital",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Subhash chandrabose","2022-06-04 06:33:06","A I N U Hospital",Approved
+"K Mohan",,,BM,Bangalore,"Suriraju V","2022-06-04 08:27:55","Regal Hospital",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"Sadanand Poojary","2022-06-05 03:34:30","Sohan Stone Clinic",Approved
+"NAVEEN .",,,BM,Bangalore,Girish,"2022-06-05 04:40:45","Unity lifeline hospital",Approved
+"Jaspreet Singh",,,BM,Kanpur,"HARISH AJMANI","2022-06-05 07:54:42","DR HARISH AJMANI CLINIC",Approved
+"Jaspreet Singh",,,BM,Kanpur,"AMOD DWIVEDI","2022-06-05 07:59:17","DR AMOD URO-GYNAE CENTRE",Approved
+"Jaspreet Singh",,,BM,Kanpur,"RAKESH CHANDRA","2022-06-05 12:33:48","Dr Rakesh Chandra Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"ABHINAV SENGAR","2022-06-05 12:43:00","Tulip Hospital",Approved
+"ANURAG .",,,BM,Delhi,G.C.JAWA,"2022-06-06 06:25:32","JAWA NURSING HOME",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"satyendra mishra","2022-06-06 08:54:49","mishra hospital",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"G P chaubey","2022-06-06 08:58:46",.,Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"vimal golchha","2022-06-06 09:03:17","golchha hospital",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"sabbir husain","2022-06-06 09:05:08","global hospital",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Amar kumar","2022-06-06 09:18:00","Kamineni l b nagar",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Vishnu vardhan Reddy","2022-06-06 09:20:55","Kamineni l b nagar",Unapproved
+"Imtiyaz Haque",,,BM,Purnea,"Md. Arif","2022-06-06 10:48:40","AL LATIF MEMORIAL NURSING HOME",Approved
+"NAVEEN .",,,BM,Bangalore,"Sridhar CN","2022-06-07 03:38:06","Unity lifeline hospital",Unapproved
+"NAVEEN .",,,BM,Bangalore,"Sridhar CN","2022-06-07 03:38:10","Unity lifeline hospital",Approved
+"Imtiyaz Haque",,,BM,Purnea,"Nasimul Haque","2022-06-07 09:37:42","Advance Heart Lung & Diabetes Centre",Approved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Rajiv Kore","2022-06-07 10:46:30","Warna Hospital",Approved
+"NAVEEN .",,,BM,Bangalore,"Nagaraj B Puttaswamy","2022-06-07 11:59:29","Punya hospital",Approved
+"SIVAKUMAR P",,,BM,Chennai,"R. NEELAKANDAN","2022-06-07 13:22:45","URO CARE KIDNEY STONE & PROSTATE CLINIC",Approved
+"Imtiyaz Haque",,,BM,Purnea,"P. K. Singh","2022-06-07 15:49:36","Nuro & Diabetic Clinic",Approved
+"Ajay Verma",,,BM,Bikaner,"MUKESH ARYA","2022-06-08 03:11:01","ARYA HOSPITAL",Approved
+"Ajay Verma",,,BM,Bikaner,"ASHOK PARMAR","2022-06-08 03:15:45","PBM HOSPITAL",Approved
+"Rahul Kr Pathak",,,BM,Lucknow,"Tarun Agarwal","2022-06-08 06:55:21","Gopi Krishna Laser Stone Center",Approved
+"Abhijit Kulkarni",,,BM,Hubli,"Jaideep. M Ratkal","2022-06-08 07:27:19","Ratkal clinic",Approved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"HRV Raj kumar","2022-06-08 08:20:02","Sujana clinic",Unapproved
+"Nihal Shukla",,,BM,Kanpur,"Vinod Kumar Mishra","2022-06-08 09:26:00","Dr. V. K. Mishra Clinic",Approved
+"Nihal Shukla",,,BM,Kanpur,"Umesh Dubey","2022-06-08 09:32:07","Dr. Umesh Dubey Clinic",Approved
+"Nihal Shukla",,,BM,Kanpur,"Piyush Mishra","2022-06-08 09:37:13","Dr. Piyush Mishra Clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Alankar jaiswal","2022-06-08 09:45:17","Shivay uro clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Vibah Malviya","2022-06-08 09:51:26","Phoenix hospital",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Dilip Chaurasia","2022-06-08 09:57:21","Balaji hospital",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Rakesh chandra gupta","2022-06-08 09:58:48","Dip uro clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Shirish Mishra","2022-06-08 10:01:17","Mohak hospital",Approved
+"Nihal Shukla",,,BM,Kanpur,"Arun Krishna","2022-06-08 10:02:03","Dr. Arun Krishna Clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Deepak gupta","2022-06-08 10:03:53","Parwati hospital",Approved
+"Nihal Shukla",,,BM,Kanpur,"Sanjai Misra","2022-06-08 10:05:24","Dr. Sanjai Misra Clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Siddharth Gupta","2022-06-08 10:06:01","Kamla poly clinic",Unapproved
+"SAHIL KESARWANI",,,BM,Allahabad,"Siddharth Gupta","2022-06-08 10:06:06","Kamla poly clinic",Approved
+"Nihal Shukla",,,BM,Kanpur,"Ritesh Chaudhary","2022-06-08 10:12:08","Kanpur Diabetes & Medical Centre",Approved
+"Nihal Shukla",,,BM,Kanpur,"Rohit Mishra","2022-06-08 10:14:39","Dr. Rohit Mishra Clinic",Approved
+"Nihal Shukla",,,BM,Kanpur,"Sandeep Mishra","2022-06-08 10:16:43","Dr. Sandeep Mishra Clinic",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Abhay kumar G","2022-06-08 10:26:26","SRN hospital",Approved
+"Nihal Shukla",,,BM,Kanpur,"Aniket Tripathi","2022-06-08 10:37:06","Ahana Medical Center",Approved
+"SAHIL KESARWANI",,,BM,Allahabad,"Tanay singh","2022-06-08 10:43:59","Najreth hospital",Approved
+"ANIL JAISWAL",,,BM,Kolkata,"Dilip karmakar","2022-06-08 11:32:28","Subarnabanik samaj",Unapproved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,"Shanmuga sundaram","2022-06-08 12:38:45","SS Urology Clenic",Approved
+"ANIL JAISWAL",,,BM,Kolkata,"Rajendra mishra","2022-06-08 13:34:53","Jeevan jyoti",Approved
+"Jaspreet Singh",,,BM,Kanpur,"SANJEEV AWASTHI","2022-06-08 13:50:54","Dr Sanjeev Awasthi Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"M. P. SINGH","2022-06-08 13:55:20","R.K.MEMORIAL HOSPITAL",Approved
+"Jaspreet Singh",,,BM,Kanpur,"ABHIMANYU KAPOOR","2022-06-08 13:58:34","ONYX Superspeciality Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"RAJAN LUTHRA","2022-06-08 14:05:07","Kanpur Medical Centre",Approved
+"Jaspreet Singh",,,BM,Kanpur,"ASHUTOSH VAJPEYI","2022-06-08 14:13:47","Dr Ashutosh Vajpeyi Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"ASHUTOSH GUPTA","2022-06-08 14:22:38","Arogya Hospital",Approved
+"Jaspreet Singh",,,BM,Kanpur,"PIYUSH TRIPATHI","2022-06-08 14:34:07","Ved Kidney Health Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"VIKAS JHUNJHUNWALA","2022-06-08 14:43:44","Dr vikas jhunjhunwala clinic",Approved
+"Ajay Verma",,,BM,Bikaner,"JITENDRA FALODIA","2022-06-09 01:19:46","PBM HOSPITAL",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"NANDAKISHORE B","2022-06-09 03:33:05","Maithri Speciality Clinics",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"Jagadeesh T S","2022-06-09 03:46:15","Metrounited healthcare",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Vijay RadhaKrishnan","2022-06-09 04:15:06","Mar Sleeva Medicity Palai",Approved
+"Sougata Das",,,BM,Midnapore,"SAPTARSHI MANDAL","2022-06-09 06:46:19","Nandigram hospital",Approved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"RAKESH KHURANA","2022-06-09 07:10:42","EVAN MULTISPECIALITY HOSPITAL",Unapproved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"ANURAG TYAGI","2022-06-09 07:12:26","ANULOK NURSING HOME",Unapproved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"DS MALIK","2022-06-09 07:13:53","GANGA RAM HOSPITAL",Unapproved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"SAHAJ GARG","2022-06-09 07:17:18","SM HOSPITAL",Unapproved
+"ANURAG .",,,BM,Delhi,"Preet Singh Chawla","2022-06-09 07:17:48","Chawla Nursing Home",Approved
+"Sougata Das",,,BM,Midnapore,"SHOBHIK CHAKRABORTY","2022-06-09 07:27:05","Shobhik chakrabarty clinic",Approved
+"AKASH DAS",,,BM,Kolkata,"SWAPAN KR MONDAL","2022-06-09 07:37:26","R G KAR MEDICAL COLLEGE",Approved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"JP SINGH NIMI","2022-06-09 07:38:55","JIYONATH HOSPITAL",Unapproved
+"Sougata Das",,,BM,Midnapore,"PRASENJIT MAJEE","2022-06-09 08:04:15","Midnapore medical College",Approved
+"ANURAG .",,,BM,Delhi,P.K.Gambhir,"2022-06-09 08:45:29","GAMBHIR HOSPITAL",Approved
+"Nipun Taliyan",999999999,nipun@gmail.com,HR,Rajasthan,"Rahul Tiwari","2022-06-09 12:10:39","Polymedica Clinic",Approved
+Faizan,999999999,Faizan@gmail.com,NA,NA,"Dr Rajesh Chopra","2022-06-09 14:43:55","Delhi jal board",Approved
+Faizan,999999999,Faizan@gmail.com,NA,NA,"Dr Dharmendra","2022-06-09 14:47:06","Darya gunj",Approved
+"Ram Bilas Nagar",,,BM,"Udaipur / Kota","DR ADITYA SHARMA","2022-06-10 04:02:19","UROLOGY CLINIC",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"G V S Pandyan","2022-06-10 05:45:13","KGP Hospital - Hitech Kidney Stone center",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"G V S Pandyan","2022-06-10 05:45:18","KGP Hospital - Hitech Kidney Stone center",Unapproved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"Rakesh Bisalehalli","2022-06-10 06:04:13","MaAx Superspeciality Hospital",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"Vivek Baliga","2022-06-10 06:26:51","Baliga Diagnostic Pvt Ltd",Approved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"SACHIN BHANDURGE","2022-06-10 06:30:53","BHANDURGE CLINIC",Unapproved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"RAKESH PANDEY","2022-06-10 06:31:59","SAKSHAM HOSPITAL",Unapproved
+"AMIT KUMAR",,,BM,Muzzafarnagar,"SHARAD AGGARWAL","2022-06-10 06:33:20","MEDIGRAM HOSPITAL",Unapproved
+"K Mohan",,,BM,Bangalore,"Narasimha Murthy K S","2022-06-10 06:56:35","Kaveri Hospital & Kidney Care Center",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Ganesh gaikwad","2022-06-10 07:03:36","Gaikwad hospital",Approved
+"K Mohan",,,BM,Bangalore,"Kishore N L","2022-06-10 07:08:44","Kishore's Health care",Approved
+"AKASH DAS",,,BM,Kolkata,"RANADHI DAS","2022-06-10 07:53:36","BAINE HOSPITAL, ZENITH HOSPITAL",Approved
+"Sougata Das",,,BM,Midnapore,"DR R. SINHA RAY","2022-06-10 08:04:33","Physician Clinic",Approved
+"K Mohan",,,BM,Bangalore,"Ramesh KR","2022-06-10 08:53:01","R.V.CALYX UROLOGY & KIDNEY STONE CENTER",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"AMRUTH RAJ GOWDA","2022-06-10 09:17:37","NAVYA KIDNEY STONE CENTER",Approved
+"Nihal Shukla",,,BM,Kanpur,"Ashutosh Bajpai","2022-06-10 09:21:43","Dr. Ashutosh Bajpai Clinic",Approved
+Faizan,999999999,Faizan@gmail.com,NA,NA,"DK Chauhan","2022-06-10 09:42:44","Darya gunj",Approved
+"K Mohan",,,BM,Bangalore,"Rangegowda B C","2022-06-10 10:57:44","Tumkur kidney stone & urology centre",Approved
+"NAVEEN .",,,BM,Bangalore,"Prasana Kumar KN","2022-06-10 11:16:40","Mathru clinic",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Amol dhoran","2022-06-10 11:44:57","Ozone multi-speciality hospital",Approved
+"AKASH DAS",,,BM,Kolkata,"TAPOBRATA CHOWDHURY","2022-06-10 13:29:05","ZENITH HOSPITAL",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"B V Chandrashekar","2022-06-10 14:24:28","Meenakshi Urology Center",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"vishal mishra","2022-06-10 16:30:00","vindhya hospital and reserch center",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"F S solanki","2022-06-10 16:33:05","Asha kiran urology center",Approved
+"Susanta Sen",,,BM,Burdwan,"Dipak Kumar Shaw","2022-06-10 16:35:21","Burdwan Urology Clinic & Centre, Ranishayer North, Burdwan",Approved
+"SIVAKUMAR P",,,BM,Chennai,"A.K. JAYARAJ","2022-06-11 11:09:34","DR. KAMAKSHI MEMORIAL HOSPITAL",Approved
+"SIVAKUMAR P",,,BM,Chennai,"R. RAJA","2022-06-11 13:01:36","DR. RAJA'S UROLOGY & STONE CLINIC",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Gaurav Sharma","2022-06-12 12:50:22","Anaaya Uro & Gynae Care",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Vijay Tyagi","2022-06-12 12:55:32","Dr. Tyagi Uro Healthcare & Kidney Clinic",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Shubham Lavania","2022-06-12 12:58:58","JJ Hospital & Research Centre",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Shriyansh Chahar","2022-06-12 13:03:22","Dr. Shriyansh Urology & Kidney Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"AVIJIT KUMAR","2022-06-12 13:03:45","Smt Ramkali Memorial Nursing Home",Approved
+"Jaspreet Singh",,,BM,Kanpur,"R K PORWAL","2022-06-12 13:17:57","Samarpan hospital",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,Muthurathinam,"2022-06-13 00:56:00","Muthu Hospital",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,Senthil,"2022-06-13 01:05:47","Swazam Urology Clenic",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,Srinivasan,"2022-06-13 01:07:45","Shridhi Urology Clenic",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,"Nitish Jain","2022-06-13 01:09:44","Vardhaman Multi-speciality Clenic",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,Subramaniam,"2022-06-13 01:12:45","Sir Ivan Stedford Hospital",Approved
+"SIVAKUMAR P",,,BM,Chennai,KARRTHIK,"2022-06-13 01:14:42","DR. KARRTHIK CLINIC",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,"Praveen Kumar","2022-06-13 01:17:55","Eswar medical foundation",Approved
+"SIVAKUMAR P",,,BM,Chennai,"G. RAMESH","2022-06-13 01:28:50","CHENNAI SURGERY CLINIC AND KIDNEY STONE CENTER",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,Sivabalan,"2022-06-13 01:33:32","RKB Hospital",Approved
+"SIVAKUMAR P",,,BM,Chennai,"G. RAMESH","2022-06-13 01:39:06","CHENNAI SURGERY CLINIC AND KIDNEY STONE CENTER",Unapproved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,"Arul Velusamy","2022-06-13 01:41:31","Velusamy hospital",Approved
+"SIVAKUMAR P",,,BM,Chennai,"G. RAMESH","2022-06-13 01:46:51","CHENNAI SURGERY CLINIC AND KIDNEY STONE CENTER",Approved
+"SIVAKUMAR P",,,BM,Chennai,"K. VETHACHALAM","2022-06-13 02:21:56","PRIME CARE NURSING HOME",Approved
+"SIVAKUMAR P",,,BM,Chennai,"P B SIVARAMAN","2022-06-13 03:32:00","CHENNAI UROLOGY AND ROBOTICS INSTITUTE",Approved
+"SIVAKUMAR P",,,BM,Chennai,"RAMAN J","2022-06-13 03:57:58","DR.RAMAN'S KIDNEY STONE CENTRE",Approved
+"SIVAKUMAR P",,,BM,Chennai,"G. SIVASANKAR","2022-06-13 05:20:39","NIMALAN KIDNEY CARE CLINIC",Approved
+"SIVAKUMAR P",,,BM,Chennai,"N. SUDHAKAR","2022-06-13 05:58:43","UNITTAS MULTISPECIALITY HOSPITAL",Approved
+"SIVAKUMAR P",,,BM,Chennai,"ASHOK THIYAGARAJAN","2022-06-13 07:16:46","DR. ASHOK THIYAGARAJAN CLINIC",Unapproved
+"SIVAKUMAR P",,,BM,Chennai,"ASHOK THYAGARAJAN","2022-06-13 07:18:56","DR. ASHOK THYAGARAJAN CLINIC",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Sujindra prasadunni","2022-06-13 07:29:03","Carithas Hospital",Unapproved
+"NIBIN SHAJI",,,BM,Kottayam,"Sujindra prasadunni","2022-06-13 07:29:34","Carithas Hospital",Unapproved
+"NIBIN SHAJI",,,BM,Kottayam,"Sujindra prasadunni","2022-06-13 07:29:38","Carithas Hospital",Unapproved
+"RATNESH VIRENDRA SHUKLA",,,BM,Mumbai,"Vivek Maste","2022-06-13 07:40:35","Hi-Tech Urology Centre",Unapproved
+"Abdul Mujjeb Quazi",,,BM,Jaipur,"Somendra Bansal","2022-06-13 08:10:18","SMS Hospital",Unapproved
+"Abdul Mujjeb Quazi",,,BM,Jaipur,"Nitin Negi","2022-06-13 08:15:56","Metro Mas Hospital",Unapproved
+"Abdul Mujjeb Quazi",,,BM,Jaipur,"Kaushal Goyal","2022-06-13 08:19:44","Saket Hospital",Unapproved
+"Abdul Mujjeb Quazi",,,BM,Jaipur,"Rohit Pratap Singh","2022-06-13 08:24:23","Rajasthan Hospital",Unapproved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"SIDDHARTH PANDEY","2022-06-13 08:32:01","M.B.B.S, M.S, M.Ch UROLOGIST",Approved
+"ANUJ KUMAR SAXENA",,,BM,Bareilly,"SUJOY MUKHARJEE","2022-06-13 08:41:29","MUKHERJEE HOSPITAL",Approved
+"Nihal Shukla",,,BM,Kanpur,"Vishal Chopra","2022-06-13 11:07:27","Dr. Vishal Chopra Clinic",Approved
+"Nihal Shukla",,,BM,Kanpur,"Avanindra Awasthi","2022-06-13 11:13:39","Awasthi Clinic",Approved
+"P Sridhar",99999999,PSridhar@gmail.com,BM,Rajasthan,Griffin,"2022-06-13 14:42:43","Ray and Rio Clenic",Approved
+"SIVAKUMAR P",,,BM,Chennai,"GURU BALAJI","2022-06-14 02:40:58","PRASHANTH HOSPITAL",Approved
+"SIVAKUMAR P",,,BM,Chennai,"SRIRAM. K","2022-06-14 02:50:17","NAURO KIDNEY SPECIALITY CLINIC",Approved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Narendra Basarge","2022-06-14 03:59:33","Vital Superspeciality Hospital",Unapproved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Narendra Basarge","2022-06-14 04:00:16","Vital Superspeciality Hospital",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Lalana bhakale","2022-06-14 04:58:31","SAVAIKAR HOSPITAL PONDA",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"M S D PRAKASHAN","2022-06-14 05:09:49","GLORIA CLINIC VARCA",Unapproved
+"NIKHIL .",,,BM,Delhi,"Tara Chand Sharma","2022-06-14 05:11:30","Sant Parmanand Hospital",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"M S D PRAKASHAN","2022-06-14 05:12:21","GLORIA CLINIC VARCA",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Jayesh kudcharkar","2022-06-14 05:19:19","Ashirwad Urology and Laparoscopy hospital Margao",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Dr Sindhu Arjun","2022-06-14 05:22:11","Vision hospital mapusa",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Mahendra Kare","2022-06-14 05:30:11","KARE'S CARDIODIBETIC CLINIC MARGAO",Approved
+"SACHIN RAJARAM PATIL",,,BM,Goa,"Jayant bhandari","2022-06-14 05:42:07","Healthway hospital panjim",Unapproved
+"Nihal Shukla",,,BM,Kanpur,"Anand Bajpai","2022-06-14 07:34:05","Meera Health Clinic",Approved
+"SUNIL KUMAR CHAURASIA",,,BM,Mumbai,"Surekha meecheri","2022-06-14 08:01:26","Saikrupa Hospital",Unapproved
+"Venkateswarlu Madireddy",,,BM,Mysore,"PRAKASH H S","2022-06-14 12:00:07","MATHOSHREE CLINIC",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"RAVIKUMAR B R","2022-06-14 12:12:01","R V KIDNEY STONE CLINIC",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"VIJAYAKUMAR R","2022-06-14 12:16:01","KAMAKSHI HOSPITAL",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"SACHIN DHARWADKHAR","2022-06-14 12:20:45","PRATHAM HEALTH CARE",Approved
+"SIVAKUMAR P",,,BM,Chennai,"K. NATARAJAN","2022-06-15 00:35:52","XCELLENT CARE HOSPITAL",Approved
+"Imtiyaz Haque",,,BM,Purnea,"S K Choudhary","2022-06-15 05:26:47","Sanjeevani Nursing Home",Approved
+"AKASH DAS",,,BM,Kolkata,"HRISHIKESH MAJUMDER","2022-06-15 06:11:29","Dr Hrishi's clinic",Approved
+"SIVAKUMAR P",,,BM,Chennai,"T. SENTHIL KUMAR","2022-06-15 06:19:06","SRM HOSPITAL",Approved
+"RAJEEV KUMAR",,,BM,Noida,"Vijay sharma","2022-06-15 07:08:59","Surbhi hospital",Unapproved
+"K Mohan",,,BM,Bangalore,"Santosh K","2022-06-15 07:16:48","Shreyas Speciality Clinic",Approved
+"Jaspreet Singh",,,BM,Kanpur,"MANIESH KUMAR","2022-06-15 07:22:12","Skin Mantra Clinic",Approved
+"Vikas Singh",9974342423,vikassingh@gmail.com,BM,Jaipur,test,"2022-06-15 08:09:52",test,Unapproved
+"SIVAKUMAR P",,,BM,Chennai,"J. SARAVANAN","2022-06-15 09:32:59","SRM HOSPITAL",Approved
+"SIVAKUMAR P",,,BM,Chennai,"T. CHANDRU","2022-06-15 11:02:30","HEALTH CARE CLINIC",Approved
+Faizan,999999999,Faizan@gmail.com,NA,NA,"BB Agarwal","2022-06-15 13:07:48","Sanjivan hospital",Approved
+"K Mohan",,,BM,Bangalore,"Manjunath G.R","2022-06-15 13:44:38","Prakriya Hospitals",Approved
+Faizan,999999999,Faizan@gmail.com,NA,NA,"Shitij Bali","2022-06-15 13:56:05","Bali hospital",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"MADDAPPA K M","2022-06-15 14:15:55","SIGMA HOSPITAL",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"KUMAR RAJ URS","2022-06-15 14:17:28","KAMAKSHI HOSPITAL",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"XAVIER D'SOUZA","2022-06-15 14:20:37","MISSION HOSPITAL",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"SURENDRA MOHAN H M","2022-06-15 14:27:30","TRUPTI UROLOGY AND KIDNEY CENTRE",Approved
+"MOHD. MAINUDDIN",,,BM,Delhi,"B L Bhan","2022-06-15 14:28:04","JEEWAN HOSPITAL",Approved
+"MOHD. MAINUDDIN",,,BM,Delhi,"Dr Kuldip Singh","2022-06-15 14:32:31","The Maples Medical Center",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"RANGANATH M S","2022-06-15 14:33:58","VIJAY HEALTH CARE",Approved
+"MOHD. MAINUDDIN",,,BM,Delhi,"Dr M S Faridi","2022-06-15 14:34:04","Majeedia Hospital",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"PRAKASH K PRABHU","2022-06-15 14:38:33","PRABHU KIDNEY HEALTH CARE",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"P SRINIVASAN","2022-06-15 15:28:30","NULIFE KIDNEY CARE",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"ANVEESH A","2022-06-15 15:31:48","ANVEESH A",Approved
+"Pravin Potdar",,,BM,Pune,"Shashikant Bhange","2022-06-15 15:40:09","Dr Bhange's Urology Centre and Care",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"KIRAN KUMAR G","2022-06-15 15:59:29","CLEAR MEDI RADIANT HOSPITAL",Approved
+"Venkateswarlu Madireddy",,,BM,Mysore,"KIRAN B S","2022-06-15 16:01:05","RAJEEV HOSPITAL",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Sujindraprasad unni","2022-06-15 16:08:18","Carithas Hospital",Approved
+"Dharvinder Singh ",,,BM,Jammu,"Ravinder singh Ghai","2022-06-15 16:13:53","Jk Medicity hospital",Approved
+"Dharvinder Singh ",,,BM,Jammu,"Ametashver Singh","2022-06-15 16:20:34","Bhagwati medicos",Unapproved
+"Dharvinder Singh ",,,BM,Jammu,"Ametashver Singh","2022-06-15 16:20:39","Bhagwati medicos",Approved
+"Susanta Sen",,,BM,Burdwan,"Susanta Das","2022-06-15 16:25:19","Medicare Diagnostics, Burdwan",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Praveen Gopi","2022-06-15 16:27:45","St Gregorios Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Suresh Bhat","2022-06-15 16:29:20","Carithas Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Manu V S","2022-06-15 16:31:13","SH medical Centre",Approved
+"Susanta Sen",,,BM,Burdwan,"Rohit Kumar","2022-06-15 16:32:27","Dreamland Nursing Home, Burdwan",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Satheesh Kumar","2022-06-15 16:50:05","Barath Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Frederick paul","2022-06-15 16:52:24","Govt. Medical College Kottayam",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Alwin Jose","2022-06-15 16:54:20","Mar Sleeva Medicity Palai",Unapproved
+"NIBIN SHAJI",,,BM,Kottayam,"Joseph Manak","2022-06-15 16:55:36","Manak Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Prasad A Cheeramattom","2022-06-15 16:58:21","TMM Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Nebu issac Mammen","2022-06-15 17:00:27","Pushpagiri Hospital Thiruvalla",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Biju J Mathews","2022-06-15 17:01:55","CM Hospital",Approved
+"Susanta Sen",,,BM,Burdwan,"Anirban Mitra","2022-06-15 17:09:19","Artim Polyclinic and Diagnostics, Renaissance Township, Burdwan",Approved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Avinash Patil","2022-06-15 17:10:30","Avinash Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"AS Albert","2022-06-15 17:17:37","Carithas Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Mahesh Krishnaswamy","2022-06-15 17:20:18","St. Thomas Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Arun Ayappan","2022-06-15 17:21:23","Carithas Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Jibu K","2022-06-15 17:23:09","Believers Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Thomson Jacob","2022-06-15 17:24:31","Believers Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Sam Thampan","2022-06-15 17:25:45","Believers Hospital",Approved
+"NIBIN SHAJI",,,BM,Kottayam,"Haris Hassan","2022-06-15 17:27:02","Govt. Medical College Kottayam",Approved
+"ANURAG SHARMA",,,BM,Meerut,"VIPIN  KUMAR","2022-06-15 18:16:54","UROLIFE CLINIC",Approved
+"ANURAG SHARMA",,,BM,Meerut,"SHYAM KUMAR","2022-06-15 18:23:13","DEVNANDINI HOSPITAL",Unapproved
+"ANURAG SHARMA",,,BM,Meerut,"AKASH BANSAL","2022-06-15 18:26:49","DR. BANSAL  UROLOGY KIDNEY CENTER",Unapproved
+"ANURAG SHARMA",,,BM,Meerut,"SUDHEER RATHI","2022-06-15 18:34:38","LLRM MEDICAL COLLEGE, MEERUT",Unapproved
+"ANURAG SHARMA",,,BM,Meerut,"SHAILENDRA SHARMA","2022-06-15 18:38:41","JAGAT HOSPITAL , MEERUT",Unapproved
+"ANURAG SHARMA",,,BM,Meerut,"PRADEEP KUMAR","2022-06-15 18:46:55","MEERUT KIDNEY HOSPITAL , MEERUT",Unapproved
+"ANURAG SHARMA",,,BM,Meerut,"B. P. SINGHAL","2022-06-15 18:50:51","EVES HOSPITAL , MEERUT",Unapproved
+"Venkateswarlu Madireddy",,,BM,Mysore,VISHWANATH,"2022-06-16 02:06:53","NARAYANA HOSPITAL",Approved
+"AKASH DAS",,,BM,Kolkata,"K L KARMAKAR","2022-06-16 02:34:03","R G KAR MEDICAL COLLEGE",Approved
+"Pawan Singh",,,BM,Delhi,"ASHISH kumar saini","2022-06-16 05:53:34","Advanced Excel Urology center",Approved
+"Pawan Singh",,,BM,Delhi,"Ashish Kumar saini","2022-06-16 05:55:29","Excel advanced urology centre",Approved
+"ANURAG SHARMA",,,BM,Meerut,"A. S. JAGGI","2022-06-16 06:23:33","HEMKUNT SURGICAL CLINIC, MEERUT",Unapproved
+"TRIVENDRA SINGH KAPSE",,,BM,Mumbai,"Sanish Shringarpure","2022-06-16 07:47:02","Kidney care",Approved
+"ANURAG .",,,BM,Delhi,"Lakhan Patel","2022-06-16 08:09:20","L.PATEL MEDICAL & HEART CENTER",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Sandip parhad","2022-06-16 08:51:44","Saikrupa hospital",Approved
+"ANURAG SHARMA",,,BM,Meerut,"A. S. JAGGI","2022-06-16 09:07:56","HEMKUNT SURGICAL CLINIC, MEERUT",Unapproved
+"BRAHAMANANDA REDDY MAREDDY",,,BM,Hyderabad,"Vishnu vardhan Reddy","2022-06-16 09:55:53","Kamineni l b nagar",Unapproved
+"TRIVENDRA SINGH KAPSE",,,BM,Mumbai,"Ajinkya Patil","2022-06-16 12:12:27",Lifeline,Approved
+"Ajay Verma",,,BM,Bikaner,"AJAY GANDHI","2022-06-16 12:52:43","PBM HOSPITAL",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Nitin Garg","2022-06-16 14:54:45","Synergy Plus Hospital",Approved
+"SIVAKUMAR P",,,BM,Chennai,PRASHANTH,"2022-06-16 16:38:15","CHETTINAD HOSPITAL",Approved
+"SIVAKUMAR P",,,BM,Chennai,"K. MURUGANANDHAM","2022-06-16 16:43:30","GLOBAL HEALTH CITY",Approved
+"NIKHIL .",,,BM,Delhi,"Ajay Gupta","2022-06-17 05:03:14","Delhi Jal Board Dispensary",Approved
+"MOHD. MAINUDDIN",,,BM,Delhi,"Dr  S K Pal","2022-06-17 06:44:52","PM Stone Clinic and Urology Center",Approved
+"MOHD. MAINUDDIN",,,BM,Delhi,"Dr G S Kochhar","2022-06-17 06:48:06","Delhi Urological Center",Approved
+"Pawan Singh",,,BM,Delhi,"Roohi Singh","2022-06-17 07:06:13","Andhra association health care & Diagnostic centre.",Approved
+"AKASH DAS",,,BM,Kolkata,"Ajoy Chowdhury","2022-06-17 08:08:44","Maniktala ESI Hospital",Approved
+"ANURAG .",,,BM,Delhi,"RAAJ K.RAWAL","2022-06-17 09:13:26","WESTCITI CLINIC",Approved
+"NIKHIL .",,,BM,Delhi,"Harwinder Singh Chauhan","2022-06-17 10:01:57","Max Hospital (Shalimar Bagh)",Approved
+"Rahul Kr Pathak",,,BM,Lucknow,"SUNIT PRAKASH TIWARI","2022-06-17 10:16:18","Fatima Hospital",Approved
+"NIKHIL .",,,BM,Delhi,"Anil Kumar Varshney","2022-06-17 11:09:54","Max Hospital (Shalimar Bagh)",Approved
+"Pawan Singh",,,BM,Delhi,"R l Nayak","2022-06-17 12:16:04","Diyos hospital",Approved
+"Pawan Singh",,,BM,Delhi,"Anil Gupta","2022-06-17 12:24:17","Gupta clinic ,27 Anand lok road",Approved
+"Pawan Singh",,,BM,Delhi,"N K mohanty","2022-06-17 12:29:04","Diyos hospital",Approved
+"Pawan Singh",,,BM,Delhi,"Anurag Puri","2022-06-17 12:32:30","The Puri clinic",Approved
+"Pawan Singh",,,BM,Delhi,"VINEET Malhotra","2022-06-17 12:58:27","Spandan clinic",Approved
+"Pawan Singh",,,BM,Delhi,"RAHUL TERAN","2022-06-17 13:00:02","Akash hospital",Approved
+"Pawan Singh",,,BM,Delhi,"AMBER Khera","2022-06-17 13:19:31",NHI,Approved
+"Pawan Singh",,,BM,Delhi,"PREGNESH DESAI","2022-06-17 13:23:36","Max panchsheel",Approved
+"Pawan Singh",,,BM,Delhi,"Gautam Banga","2022-06-17 13:27:43","SCI HOSPITAL",Approved
+"YOGESH PRADEEP GOYAL",,,BM,Akola,"Sunil mapari","2022-06-17 13:35:35","Gajanan Hospital",Approved
+"Pawan Singh",,,BM,Delhi,"Rajesh Goel","2022-06-17 13:39:48",PSRI,Approved
+"Pawan Singh",,,BM,Delhi,"Ravi Bansal","2022-06-17 13:42:39","PSRI HOSPITAL",Approved
+"Pawan Singh",,,BM,Delhi,"Sanjeev Saxena","2022-06-17 13:46:50","PSRI HOSPITAL",Approved
+"Pawan Singh",,,BM,Delhi,"Abhinav verwal","2022-06-17 15:29:02","R G stone hospital",Approved
+"Pawan Singh",,,BM,Delhi,"Manish singla","2022-06-17 15:30:54","R G stone",Approved
+"Pawan Singh",,,BM,Delhi,"Abhinav Kumar","2022-06-17 15:32:29","R G stone",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"Amar Kumar","2022-06-18 05:54:24","Basavangudi hospital",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"A Nagaraja Rao","2022-06-18 06:06:47","Rao's Uro Care",Approved
+"K RAMAKRISHNAN RAJU",,,BM,Bangalore,"Manohar C S","2022-06-18 06:40:40","Victoria hospital",Approved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Abhijeet Katkar","2022-06-18 07:22:49","Katkar Hospital",Unapproved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Abhijeet Katkar","2022-06-18 07:33:55","Katkar Hospital",Approved
+"Abhijit Kulkarni",,,BM,Hubli,"Anup Desai","2022-06-18 09:26:39","Girish Kidney Care",Approved
+"Abhijit Kulkarni",,,BM,Hubli,"Nishant Konnur","2022-06-18 09:32:41","KONNUR KIDNEY CENTRE",Approved
+"Abhijit Kulkarni",,,BM,Hubli,"Tanveer Hussain Ustad","2022-06-18 09:34:59","USTAD KIDNEY CARE & MULTI-SPECIALITY HOSPITAL",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"Anup jain","2022-06-19 08:52:34","muskan healthcare",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"vishal kastwar","2022-06-19 08:55:38","kastwar clinic",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"Rajesh patel","2022-06-19 08:59:49","metro hospital",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"Vishal kalia","2022-06-19 09:03:19","bhandari hospital",Approved
+"SHUBHAM KUMAR MISHRA",,,BM,Jabalpur,"pushpendra singh baghel","2022-06-19 13:39:48","elite hospital",Approved
+"SATISH KUMAR",,,BM,Hisar,"Surender bhakar","2022-06-20 06:36:48","Churamani multispecility hospital",Approved
+"SATISH KUMAR",,,BM,Hisar,"Anant Dalal","2022-06-20 06:44:37","Gangaram hospital",Approved
+"SATISH KUMAR",,,BM,Hisar,"Tarun sapra","2022-06-20 06:48:12","Sapra multispecility hospital",Approved
+"Ravish Kumar",,,BM,Ludhiana,"Subhash Batta","2022-06-20 07:36:08","Batta Clinic",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"PRASHANTH ADIGA K","2022-06-20 09:04:10","Vikram Scanning Center",Approved
+"NISHMITH KUMAR P B",,,BM,Mangalore,"Abhijit Shetty","2022-06-20 09:13:48","KIDNEY & ENT CLINIC",Approved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,Makrand.M.Joshi,"2022-06-20 10:40:07","Sadguru Multispeciality Hospital",Approved
+"OJASWA KUMAR SHARMA",,,BM,Agra,"Manav Agarwal","2022-06-21 03:39:12","Agra Nephro- Urology Centre",Approved
+"Ravish Kumar",,,BM,Ludhiana,"Neelesh Bansal","2022-06-21 05:16:50","Usha Mission Hospital Bathinda",Approved
+"Ravish Kumar",,,BM,Ludhiana,"Saurabh Gupta","2022-06-21 06:31:24","Gupta Urology centre Bathinda",Approved
+"Shubham Patil",,,BM,Belgaum,"Basavraj Ugran","2022-06-21 07:50:01","Ugran kidney care",Unapproved
+"Shubham Patil",,,BM,Belgaum,"Basavraj Ugran","2022-06-21 07:52:02","Ugran kidney care Hospital",Approved
+"Prasad Pawar",999999999,prasadpawar@gmail.com,MR,MR,"Abhijeet Patil","2022-06-21 09:47:28","Swastik Hospital/Chirayu Hospital",Unapproved
+"Ravish Kumar",,,BM,Ludhiana,"J S chahal","2022-06-21 11:39:48","Chahal Hospital Bathinda",Approved
+"Ravish Kumar",,,BM,Ludhiana,"Naresh Kumar Goyal","2022-06-21 11:42:48","Ganpati Super speciality Hospital Bathinda",Unapproved
+"Pravin Potdar",,,BM,Pune,"Vikram Satav","2022-06-21 15:41:20","Chintamani Hospital",Approved
+"Pravin Potdar",,,BM,Pune,"Shashikant Asabe","2022-06-21 15:46:21","Vital Hospital",Approved
+"Pravin Potdar",,,BM,Pune,"Suraj Lunavat","2022-06-21 15:47:42","Lunavat Clinic",Approved
+"Pravin Potdar",,,BM,Pune,"Anand Kashid","2022-06-21 15:49:07","Maccare Hospital",Approved
+"Sougata Das",,,BM,Midnapore,"Biplab gayen","2022-06-21 15:53:36",Kalpataru,Approved
+"ANIL JAISWAL",,,BM,Kolkata,"N S DATTA","2022-06-22 05:39:53","N s datta clinic",Approved
+"SUDEEP KUMAR YADAV",,,BM,Delhi,"DHIRAJ GANDHI","2022-06-22 06:27:24","BSES DISPENSARY",Approved
+"Paramananda Biswal",,,BM,Cuttack,"Dr Amaresh Pattanayak","2022-06-22 10:06:24","CWS Hospital",Approved
+"Paramananda Biswal",,,BM,Cuttack,"Dr Amaresh Pattanayak","2022-06-22 10:09:40","CWS Hospital",Unapproved

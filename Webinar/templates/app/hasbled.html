@@ -1,0 +1,303 @@
+{% include "app/header.html"%}
+
+<form action="{% url 'logic'%}" method="POST">
+    {% csrf_token %}
+    <!--**********************************
+            Sidebar end
+        ***********************************-->
+    <!--**********************************
+            Toggle css & js 
+        ***********************************-->
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+    <!--**********************************
+            Toggle css & js
+        ***********************************-->
+    <!--**********************************
+            Content body start
+        ***********************************-->
+    <style type="text/css">
+        table th,
+        table td {
+            border: 1px solid #000;
+            padding: 10px;
+        }
+    </style>
+    <div class="content-body">
+        <!-- row -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">HAS-BLED Score</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="basic-form">
+                                <form id="Blogform1" autocomplete="off" method="post" enctype="multipart/form-data">
+                                    <div class="form-row">
+                                        <div class="form-group col-md-12">
+                                            <label><b>Patient Name</b></label>
+                                            <input type="text" class="form-control" name="patient_name"
+                                                placeholder="Enter Patient Name" required />
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <label><b>Score Date</b></label>
+                                            <input type="date" class="form-control" name="result_date"
+                                                placeholder="Enter Score Date" required />
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Hypertension</b></label>
+                                                    <p>Uncontrolled, >160 mmHg systolic</p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="hypertension"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Renal disease</b></label>
+                                                    <p>Dialysis, transplant, Cr >2.26 mg/dL or >200 µmol/L</p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="renal_disease"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Liver disease</b></label>
+                                                    <p>Cirrhosis or bilirubin >2x normal with AST/ALT/AP >3x normal
+                                                    </p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="liver_disease"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Stroke history</b></label>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="stroke_history"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Prior major bleeding or predisposition to
+                                                            bleeding</b></label>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="bleeding_history"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Labile INR</b></label>
+                                                    <p>Unstable/high INRs, time in therapeutic range <60%< /p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="labile_inr"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Age >65</b></label>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="elderly" value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Medication usage predisposing to bleeding</b></label>
+                                                    <p>Aspirin, clopidogrel, NSAIDs</p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="medication_usage"
+                                                        value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group col-md-12">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <label><b>Alcohol use</b></label>
+                                                    <p>≥8 drinks/week</p>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <input type="checkbox" data-toggle="toggle" data-on="Yes +1"
+                                                        data-off="No 0" data-offstyle="dark" name="drugs" value="1">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <br>
+                                    <div class="col-md-12 text-center">
+
+                                        <!-- <div class="ajax-load1 text-center" style="display:none;">
+                                                <img src="/static/uploads/loader.gif">
+                                            </div> -->
+
+                                        <div class="col-md-12">
+                                            <div id="alert_message"></div>
+                                        </div>
+                                    </div>
+
+                                    <button style="background-color: #832852;" type="submit"
+                                        class="btn btn-primary">Generate Score</button>
+                                    <br><br>
+                                    <div class="col-md-12" id="result">
+                                        <div class="alert alert-success border-info" role="alert">
+                                            <div id="result_message">
+                                                <table>
+                                                    <tbody>
+                                                        <tr>
+                                                            <th>Total Score</th>
+                                                            <th>Bleed_per_100_patient_year</th>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>{{ mymembers.Hypertension }}</td>
+                                                            <td>{{ mymembers.Prior_major_bleeding_or_predisposition_to_bleeding }}</td>
+                                                            
+                
+                                                        </tr>
+                                                        <!-- <tr>
+                                                            <td><b>3</b></td>
+                                                            <td><b>3.74</b></td>
+                                                        </tr> -->
+                                                    </tbody>
+                                                </table><br>
+                                                <p>Risk was 5.8% in one validation study (Lip 2011) and 3.74 bleeds per
+                                                    100 patient-years in another validation study (Pisters 2010).</p>
+                                                <p>*The risk of major bleeding within 1 year in patients with atrial
+                                                    fibrillation in the Euro Heart Survey determined by the novel
+                                                    bleeding risk score, HAS-BLED</p>
+                                                <p><b>Disclaimer</b>:<br>HAS-BLED has been validated for warfarin, but
+                                                    not for the new anticoagulants.3 Calculations alone should never
+                                                    dictate patient care, and are no substitute for professional
+                                                    judgement.</p>
+                                                <p><b>References</b>:<br>
+                                                    (1) Pisters R, Lane DA, Nieuwlaat R, de Vos CB, Crijns HJGM, Lip
+                                                    GYH. A novel user-friendly score (HAS-BLED) to assess 1-year risk of
+                                                    major bleeding in patients with atrial fibrillation: the Euro Heart
+                                                    Survey.Chest. 2010;138(5):1093-1100.<br>
+                                                    (2) Lane DA, Lip GYH. Use of the CHA(2)DS(2)-VASc and HAS-BLED
+                                                    scores to aid decision making for thromboprophylaxis in nonvalvular
+                                                    atrial fibrillation. Circulation. 2012;126(7):860-865.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12" id="result" style="display:none;">
+                                        <div class="alert alert-success border-info" role="alert">
+                                            <div id="result_message"></div>
+                                      
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--**********************************
+            Content body end
+        ***********************************-->
+    <script src="/static/assets/jquery.min.js"></script>
+    <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+    <script>
+
+
+        $(document).ready(function () {
+            $("#result").hide();
+            var frm = $('#Blogform1');
+            frm.submit(function (e) {
+                e.preventDefault();
+
+
+                $(".ajax-load1").show();
+
+
+                var formData = new FormData($(this)[0]);
+                $.ajax({
+                    type: 'POST',
+                    url: '/static/user/Calculator/add_save_has_bled_score',
+                    data: formData,
+                    async: true,
+                    cache: false,
+                    contentType: false,
+                    processData: false,
+                    success: function (data) {
+                        //console.log(data);
+                        $(".ajax-load1").hide();
+                        var res = JSON.parse(data);
+
+                        status = res.status;
+                        message = res.message;
+
+                        if (status == 'success') {
+                            Swal.fire({
+                                title: 'Has-Bled Score Calculated Successfully!',
+                                //text: "You can add more customer!",
+                                type: 'success',
+                                showCancelButton: false,
+                                confirmButtonColor: '#3085d6',
+                                cancelButtonColor: '#d33',
+                                confirmButtonText: 'Done',
+                                cancelButtonText: "No",
+                            }).then((result) => {
+                                if (result.value) {
+                                    $("#result").show();
+                                    $('#result_message').html(message);
+                                }
+
+                            })
+                        }
+                        else {
+                            $('#alert_message').html('<div class="text-center alert alert-danger">' + message + '</div>');
+                        }
+                    }
+                });
+            });
+
+
+
+        });
+
+
+    </script>
+    **********************************
+    {% include "app/footer.html"%}

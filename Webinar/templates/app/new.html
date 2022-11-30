@@ -1,0 +1,17 @@
+<table>
+    <tr>
+        <th>Blog_image</th>
+        <th>Blog_title</th>
+        <th>Blog_date</th>
+        <th>Blog_description</th>
+        
+    </tr>
+    {% for item in mymembers %}
+    <tr>
+        <td>{{ item.Blog_image }}</td>
+        <td>{{ item.Blog_title }}</td>
+        <td>{{ item.Blog_date}}</td>
+        <td>{{ item.Blog_description}}</td>
+    </tr>
+    {% endfor %}
+</table>

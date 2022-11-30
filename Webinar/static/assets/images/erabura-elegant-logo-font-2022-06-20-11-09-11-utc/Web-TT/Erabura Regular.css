@@ -1,0 +1,11 @@
+/* Webfont: Erabura-Regular */@font-face {
+    font-family: 'Erabura';
+    src: url('Erabura Regular.eot'); /* IE9 Compat Modes */
+    src: url('Erabura Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Erabura Regular.woff') format('woff'), /* Modern Browsers */
+         url('Erabura Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

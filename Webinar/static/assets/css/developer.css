@@ -1,0 +1,26 @@
+@media (min-width: 768px)
+{
+  .logo-abbr{
+    display: none;
+  }
+}
+
+[data-headerbg="color_1"] .nav-header .hamburger .line
+{
+    background-color:#832852 !important;
+}
+
+[data-sidebar-style="full"][data-layout="vertical"] .deznav .metismenu > li > a:before {
+    height: 100%;
+    position: absolute;
+    border-radius: 4px;
+    width: 6px;
+    background: #832852 !important;
+    top: 0;
+    right: 0;
+    opacity: 0;
+    content: "";
+    -webkit-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+}
