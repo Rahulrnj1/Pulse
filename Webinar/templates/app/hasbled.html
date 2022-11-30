@@ -1,7 +1,7 @@
 {% include "app/header.html"%}
 
-<form action="{% url 'logic'%}" method="POST">
-    {% csrf_token %}
+<!-- <form id="Blogform1" action="{% url 'logic'%}" method="POST"> -->
+    
     <!--**********************************
             Sidebar end
         ***********************************-->
@@ -34,7 +34,8 @@
                         </div>
                         <div class="card-body">
                             <div class="basic-form">
-                                <form id="Blogform1" autocomplete="off" method="post" enctype="multipart/form-data">
+                                <form id="Blogform2" autocomplete="off" method="post" enctype="multipart/form-data">
+                                    {% csrf_token %}
                                     <div class="form-row">
                                         <div class="form-group col-md-12">
                                             <label><b>Patient Name</b></label>
@@ -186,9 +187,9 @@
                                                             <th>Bleed_per_100_patient_year</th>
                                                         </tr>
                                                         <tr>
-                                                            <td>{{ mymembers.Hypertension }}</td>
-                                                            <td>{{ mymembers.Prior_major_bleeding_or_predisposition_to_bleeding }}</td>
                                                             
+                                                            <td class="bleed"></td>
+                                                            <td class="hyper"></td>
                 
                                                         </tr>
                                                         <!-- <tr>
@@ -197,33 +198,16 @@
                                                         </tr> -->
                                                     </tbody>
                                                 </table><br>
-                                                <p>Risk was 5.8% in one validation study (Lip 2011) and 3.74 bleeds per
-                                                    100 patient-years in another validation study (Pisters 2010).</p>
-                                                <p>*The risk of major bleeding within 1 year in patients with atrial
-                                                    fibrillation in the Euro Heart Survey determined by the novel
-                                                    bleeding risk score, HAS-BLED</p>
-                                                <p><b>Disclaimer</b>:<br>HAS-BLED has been validated for warfarin, but
-                                                    not for the new anticoagulants.3 Calculations alone should never
-                                                    dictate patient care, and are no substitute for professional
-                                                    judgement.</p>
-                                                <p><b>References</b>:<br>
-                                                    (1) Pisters R, Lane DA, Nieuwlaat R, de Vos CB, Crijns HJGM, Lip
-                                                    GYH. A novel user-friendly score (HAS-BLED) to assess 1-year risk of
-                                                    major bleeding in patients with atrial fibrillation: the Euro Heart
-                                                    Survey.Chest. 2010;138(5):1093-1100.<br>
-                                                    (2) Lane DA, Lip GYH. Use of the CHA(2)DS(2)-VASc and HAS-BLED
-                                                    scores to aid decision making for thromboprophylaxis in nonvalvular
-                                                    atrial fibrillation. Circulation. 2012;126(7):860-865.
-                                                </p>
+                                                <div class="desc"></div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-12" id="result" style="display:none;">
+                                    <!-- <div class="col-md-12" id="result" style="display:none;">
                                         <div class="alert alert-success border-info" role="alert">
                                             <div id="result_message"></div>
                                       
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </form>
                             </div>
                         </div>
@@ -243,7 +227,7 @@
 
         $(document).ready(function () {
             $("#result").hide();
-            var frm = $('#Blogform1');
+            var frm = $('#Blogform2');
             frm.submit(function (e) {
                 e.preventDefault();
 
@@ -254,21 +238,21 @@
                 var formData = new FormData($(this)[0]);
                 $.ajax({
                     type: 'POST',
-                    url: '/static/user/Calculator/add_save_has_bled_score',
+                    url: "{% url 'logic'%}",
                     data: formData,
                     async: true,
                     cache: false,
                     contentType: false,
                     processData: false,
                     success: function (data) {
-                        //console.log(data);
-                        $(".ajax-load1").hide();
+                        
+
+                        // $(".ajax-load1").hide();
                         var res = JSON.parse(data);
+                        // status = res.status;
+                        // message = res.message;
 
-                        status = res.status;
-                        message = res.message;
-
-                        if (status == 'success') {
+                        // if (status == 'success') {
                             Swal.fire({
                                 title: 'Has-Bled Score Calculated Successfully!',
                                 //text: "You can add more customer!",
@@ -281,14 +265,18 @@
                             }).then((result) => {
                                 if (result.value) {
                                     $("#result").show();
-                                    $('#result_message').html(message);
+                                    // $('#result_message').html(message);
+                                    jQuery(".hyper").html(res.Hypertension)
+                                    jQuery(".bleed").html(res.total_score)
+                                    jQuery(".desc").html(res.message)
+
                                 }
 
                             })
-                        }
-                        else {
-                            $('#alert_message').html('<div class="text-center alert alert-danger">' + message + '</div>');
-                        }
+                        // }
+                        // else {
+                        //     $('#alert_message').html('<div class="text-center alert alert-danger">' + message + '</div>');
+                        // }
                     }
                 });
             });
@@ -299,5 +287,5 @@
 
 
     </script>
-    **********************************
+
     {% include "app/footer.html"%}
