@@ -45,5 +45,3 @@ class ClinicSerializer(serializers.ModelSerializer):
         fields = ('__all__')
 
 
-
-    Clinic

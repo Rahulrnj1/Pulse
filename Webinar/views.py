@@ -741,9 +741,9 @@ Alternatives to anticoagulation should be considered: Patient is at very high ri
 
 
         x = get_score(user)
-        # print(x[0])
-        # print(x[1])
-        print("data",x)
+        print(x[0])
+        print(x[1])
+        print(x[2])
       
     template = loader.get_template('app/hasbled.html')
     context = {
@@ -751,4 +751,6 @@ Alternatives to anticoagulation should be considered: Patient is at very high ri
         }
         # print("success")
     return HttpResponse(template.render(context, request))
+
+    
 
